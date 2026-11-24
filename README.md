@@ -15,7 +15,6 @@
 
 - 本地运行：`cd portal && pnpm install && pnpm dev`
 - 生产构建：`cd portal && pnpm build`
-- 公网站点：https://ad49befe2e1553bb9.app.workbuddy.host/?sharecode=RLM6EYRI3U
 
 > 注：`data/tasks.json` 为运行时任务镜像，含反馈数据，故不纳入版本库。
 

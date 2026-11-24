@@ -1,6 +1,6 @@
 # personal-portal-archive
 
-开源归档仓库，包含九部分内容：
+开源归档仓库，包含十部分内容：
 
 ## 目录结构
 
@@ -15,6 +15,7 @@
 | `wechat-library/fmea/` | AIAG 第五版 FMEA 中文版 PDF 转 HTML（239 页，图文本地化，可搜索） |
 | `wechat-article/rust-anything/` | 公众号「逛逛GitHub」文章《rust-anything：让 AI 给旧项目性能提速》完整归档（图文本地化） |
 | `wechat-article/academic-figure-skill/` | 公众号「前沿技术分享」文章《装上这个开源 Skill，AI 画图按 Nature 标准来》完整归档（图文本地化） |
+| `wechat-article/tokeneconomizer/` | 公众号「AI开源无界」文章《微软开源了个省钱插件：让 Claude Code、Codex 越用越省钱》完整归档（图文本地化） |
 
 ## 个人门户
 
@@ -83,5 +84,13 @@
 来源公众号：前沿技术分享。文章《装上这个开源 Skill，AI 画图按 Nature 标准来》，完整图文归档（4 张本地化图片）。
 
 打开 [`wechat-article/academic-figure-skill/index.html`](wechat-article/academic-figure-skill/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。
+
+## TokenEconomizer 文章归档
+
+来源公众号：AI开源无界。文章《微软开源了个省钱插件：让 Claude Code、Codex 越用越省钱》，完整图文归档（6 张本地化图片）。
+
+打开 [`wechat-article/tokeneconomizer/index.html`](wechat-article/tokeneconomizer/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。

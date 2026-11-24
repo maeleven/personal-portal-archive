@@ -1,6 +1,6 @@
 # personal-portal-archive
 
-私有归档仓库，包含两部分内容：
+开源归档仓库，包含三部分内容：
 
 ## 目录结构
 
@@ -8,6 +8,7 @@
 |---|---|
 | `portal/` | 个人门户完整源码（Next.js 14 + React 18 + TypeScript + Tailwind） |
 | `wechat-article/` | 微信文章《入门 MES 系统必会的 66 个专业术语解析》完整网页 HTML |
+| `wechat-library/` | 公众号「滚滚的全栈运动场」46 篇半导体 MES/CIM 历史文章资料库（图文本地化） |
 
 ## 个人门户
 
@@ -22,3 +23,11 @@
 
 来源：https://mp.weixin.qq.com/s/2ZCEb8mQ1kzAZULF26NoXg
 `wechat-article/index.html` 为完整抓取的网页（约 4MB）。
+
+## 半导体 MES/CIM 历史文章资料库
+
+来源公众号：滚滚的全栈运动场。共 **46 篇**（2026-06 ~ 2026-11），按时间倒序排列，支持标题/日期搜索。
+
+打开 [`wechat-library/index.html`](wechat-library/index.html) 浏览，含左侧目录、搜索框、完整正文与 109 张本地化图片；每篇均附微信原文链接。
+
+内容仅供学习交流，版权归原作者所有。

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "inkblog",
+    "name": "InkBlog",
+    "summary": "一个偏阅读体验的个人博客主题，从开源主题 fork 后做了大量本地化与功能增强。",
+    "baseProject": "Hexo 主题 Butterfly",
+    "changes": [
+      "重构首页信息流，加入「按系列聚合」与阅读进度条",
+      "接入本地评论与反垃圾逻辑，去掉第三方评论依赖",
+      "新增深色模式与基于系统时间的自动切换",
+      "补充全站 SEO 结构化数据与 sitemap 自动生成"
+    ],
+    "tech": ["Hexo", "EJS", "Vue 3", "Tailwind CSS"],
+    "accent": "#5b8cff",
+    "url": "https://example.com/inkblog",
+    "repo": "https://github.com/example/inkblog",
+    "year": "2025"
+  },
+  {
+    "id": "minidrive",
+    "name": "MiniDrive",
+    "summary": "面向小团队与个人分享场景的轻量文件门户，在开源网盘项目上做了功能裁剪和体验重做。",
+    "baseProject": "AList",
+    "changes": [
+      "重写前端分享页，支持带水印的在线预览",
+      "增加按链接粒度的访问密码与有效期控制",
+      "接入下载统计与简单的数据看板",
+      "裁剪不需要的存储驱动，简化部署配置"
+    ],
+    "tech": ["React", "TypeScript", "Go", "SQLite"],
+    "accent": "#34d399",
+    "url": "https://example.com/minidrive",
+    "repo": "https://github.com/example/minidrive",
+    "year": "2024"
+  },
+  {
+    "id": "tasklens",
+    "name": "TaskLens",
+    "summary": "给开源看板加了一层「周报视角」，把任务数据聚合成可分享的周报卡片。",
+    "baseProject": "Vikunja 前端",
+    "changes": [
+      "新增周报视图，按完成情况自动归类任务",
+      "支持一键生成图片卡片用于分享",
+      "优化移动端拖拽体验",
+      "补充键盘快捷键与批量操作"
+    ],
+    "tech": ["Vue 3", "Pinia", "Canvas", "Vitest"],
+    "accent": "#f59e0b",
+    "repo": "https://github.com/example/tasklens",
+    "year": "2024"
+  },
+  {
+    "id": "dailywidget",
+    "name": "DailyWidget",
+    "summary": "把开源天气应用改造成桌面小组件，专注极简信息和低资源占用。",
+    "baseProject": "Weatherian 开源版",
+    "changes": [
+      "用 Tauri 重打包为桌面小组件，体积减少约 70%",
+      "重写信息层级，突出温度、天气和当日提醒",
+      "增加本地缓存，弱网下仍可查看最近数据",
+      "适配深浅色主题与多语言"
+    ],
+    "tech": ["Tauri", "Rust", "React", "Vite"],
+    "accent": "#a78bfa",
+    "repo": "https://github.com/example/dailywidget",
+    "year": "2023"
+  }
+]

@@ -1,6 +1,6 @@
 # personal-portal-archive
 
-开源归档仓库，包含五部分内容：
+开源归档仓库，包含六部分内容：
 
 ## 目录结构
 
@@ -11,6 +11,7 @@
 | `wechat-library/` | 公众号「滚滚的全栈运动场」46 篇半导体 MES/CIM 历史文章资料库（图文本地化） |
 | `wechat-article/filee/` | 公众号「分享迷」文章《GitHub 3万 Star 的文件转换神器 Filee》完整归档（图文本地化） |
 | `wechat-article/ai-agent-handbook/` | 公众号「哆咪AI编程」文章《阿里云开源 AI Agent Handbook》完整归档 |
+| `wechat-article/agent-orchestrator/` | 公众号「胶兜」文章《10.6 万 star 的 agent 编排台》完整归档（图文本地化） |
 
 ## 个人门户
 
@@ -47,5 +48,13 @@
 来源公众号：哆咪AI编程。文章《阿里云开源了一本〈AI Agent Handbook〉，系统讲解 AI Agent 工程实践》，完整正文归档。
 
 打开 [`wechat-article/ai-agent-handbook/index.html`](wechat-article/ai-agent-handbook/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。
+
+## Agent 编排台文章归档
+
+来源公众号：胶兜。文章《10.6 万 star 的 agent 编排台：把一群 agent 组织成一家公司》，完整图文归档（3 张本地化图片）。
+
+打开 [`wechat-article/agent-orchestrator/index.html`](wechat-article/agent-orchestrator/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。

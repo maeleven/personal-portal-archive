@@ -1,6 +1,6 @@
 # personal-portal-archive
 
-开源归档仓库，包含四部分内容：
+开源归档仓库，包含五部分内容：
 
 ## 目录结构
 
@@ -42,9 +42,9 @@
 
 内容仅供学习交流，版权归原作者所有。
 
-## Filee 文章归档
+## AI Agent Handbook 文章归档
 
-来源公众号：分享迷。文章《这个最无敌：GitHub 3万 Star，270 种格式，完全免费，还不用联网》，完整图文归档（9 张本地化图片）。
+来源公众号：哆咪AI编程。文章《阿里云开源了一本〈AI Agent Handbook〉，系统讲解 AI Agent 工程实践》，完整正文归档。
 
 打开 [`wechat-article/ai-agent-handbook/index.html`](wechat-article/ai-agent-handbook/index.html) 浏览。
 

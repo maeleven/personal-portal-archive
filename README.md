@@ -1,6 +1,6 @@
 # personal-portal-archive
 
-开源归档仓库，包含六部分内容：
+开源归档仓库，包含七部分内容：
 
 ## 目录结构
 
@@ -12,6 +12,7 @@
 | `wechat-article/filee/` | 公众号「分享迷」文章《GitHub 3万 Star 的文件转换神器 Filee》完整归档（图文本地化） |
 | `wechat-article/ai-agent-handbook/` | 公众号「哆咪AI编程」文章《阿里云开源 AI Agent Handbook》完整归档 |
 | `wechat-article/agent-orchestrator/` | 公众号「胶兜」文章《10.6 万 star 的 agent 编排台》完整归档（图文本地化） |
+| `wechat-library/fmea/` | AIAG 第五版 FMEA 中文版 PDF 转 HTML（239 页，图文本地化，可搜索） |
 
 ## 个人门户
 
@@ -56,5 +57,13 @@
 来源公众号：胶兜。文章《10.6 万 star 的 agent 编排台：把一群 agent 组织成一家公司》，完整图文归档（3 张本地化图片）。
 
 打开 [`wechat-article/agent-orchestrator/index.html`](wechat-article/agent-orchestrator/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。
+
+## AIAG 第五版 FMEA 中文版
+
+来源：百度网盘分享《第五版FMEA中文版.pdf》（239 页）。已转换为 HTML 资料库：每页保留原始页面影像，并附可展开、可全文搜索的文字层。
+
+打开 [`wechat-library/fmea/index.html`](wechat-library/fmea/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。

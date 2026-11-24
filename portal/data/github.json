@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "next.js",
+    "fullName": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "language": "TypeScript",
+    "stars": 128000,
+    "url": "https://github.com/vercel/next.js",
+    "topics": ["react", "framework", "ssr"],
+    "updatedAt": "2026-11-18"
+  },
+  {
+    "id": 2,
+    "name": "tailwindcss",
+    "fullName": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "TypeScript",
+    "stars": 84000,
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "topics": ["css", "design", "frontend"],
+    "updatedAt": "2026-11-15"
+  },
+  {
+    "id": 3,
+    "name": "ui",
+    "fullName": "shadcn-ui/ui",
+    "description": "Beautifully designed components built on Radix UI and Tailwind CSS.",
+    "language": "TypeScript",
+    "stars": 95000,
+    "url": "https://github.com/shadcn-ui/ui",
+    "topics": ["components", "design-system", "react"],
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": 4,
+    "name": "supabase",
+    "fullName": "supabase/supabase",
+    "description": "The open source Firebase alternative.",
+    "language": "TypeScript",
+    "stars": 78000,
+    "url": "https://github.com/supabase/supabase",
+    "topics": ["database", "backend", "saas"],
+    "updatedAt": "2026-11-19"
+  },
+  {
+    "id": 5,
+    "name": "obsidian",
+    "fullName": "obsidianmd/obsidian-releases",
+    "description": "A collection of community plugins and themes for Obsidian.",
+    "language": "JavaScript",
+    "stars": 12000,
+    "url": "https://github.com/obsidianmd/obsidian-releases",
+    "topics": ["notes", "plugins", "pkm"],
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": 6,
+    "name": "awesome",
+    "fullName": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "language": null,
+    "stars": 310000,
+    "url": "https://github.com/sindresorhus/awesome",
+    "topics": ["awesome", "curated", "resources"],
+    "updatedAt": "2026-11-10"
+  }
+]

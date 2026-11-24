@@ -1,6 +1,6 @@
 # personal-portal-archive
 
-开源归档仓库，包含八部分内容：
+开源归档仓库，包含九部分内容：
 
 ## 目录结构
 
@@ -14,6 +14,7 @@
 | `wechat-article/agent-orchestrator/` | 公众号「胶兜」文章《10.6 万 star 的 agent 编排台》完整归档（图文本地化） |
 | `wechat-library/fmea/` | AIAG 第五版 FMEA 中文版 PDF 转 HTML（239 页，图文本地化，可搜索） |
 | `wechat-article/rust-anything/` | 公众号「逛逛GitHub」文章《rust-anything：让 AI 给旧项目性能提速》完整归档（图文本地化） |
+| `wechat-article/academic-figure-skill/` | 公众号「前沿技术分享」文章《装上这个开源 Skill，AI 画图按 Nature 标准来》完整归档（图文本地化） |
 
 ## 个人门户
 

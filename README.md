@@ -10,6 +10,7 @@
 | `wechat-article/` | 微信文章《入门 MES 系统必会的 66 个专业术语解析》完整网页 HTML |
 | `wechat-library/` | 公众号「滚滚的全栈运动场」46 篇半导体 MES/CIM 历史文章资料库（图文本地化） |
 | `wechat-article/filee/` | 公众号「分享迷」文章《GitHub 3万 Star 的文件转换神器 Filee》完整归档（图文本地化） |
+| `wechat-article/ai-agent-handbook/` | 公众号「哆咪AI编程」文章《阿里云开源 AI Agent Handbook》完整归档 |
 
 ## 个人门户
 
@@ -38,5 +39,13 @@
 来源公众号：分享迷。文章《这个最无敌：GitHub 3万 Star，270 种格式，完全免费，还不用联网》，完整图文归档（9 张本地化图片）。
 
 打开 [`wechat-article/filee/index.html`](wechat-article/filee/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。
+
+## Filee 文章归档
+
+来源公众号：分享迷。文章《这个最无敌：GitHub 3万 Star，270 种格式，完全免费，还不用联网》，完整图文归档（9 张本地化图片）。
+
+打开 [`wechat-article/ai-agent-handbook/index.html`](wechat-article/ai-agent-handbook/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。

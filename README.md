@@ -77,3 +77,11 @@
 打开 [`wechat-article/rust-anything/index.html`](wechat-article/rust-anything/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。
+
+## academic-figure-skill 文章归档
+
+来源公众号：前沿技术分享。文章《装上这个开源 Skill，AI 画图按 Nature 标准来》，完整图文归档（4 张本地化图片）。
+
+打开 [`wechat-article/academic-figure-skill/index.html`](wechat-article/academic-figure-skill/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。

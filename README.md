@@ -1,6 +1,6 @@
 # personal-portal-archive
 
-开源归档仓库，包含十部分内容：
+开源归档仓库，包含十一部分内容：
 
 ## 目录结构
 
@@ -16,6 +16,7 @@
 | `wechat-article/rust-anything/` | 公众号「逛逛GitHub」文章《rust-anything：让 AI 给旧项目性能提速》完整归档（图文本地化） |
 | `wechat-article/academic-figure-skill/` | 公众号「前沿技术分享」文章《装上这个开源 Skill，AI 画图按 Nature 标准来》完整归档（图文本地化） |
 | `wechat-article/tokeneconomizer/` | 公众号「AI开源无界」文章《微软开源了个省钱插件：让 Claude Code、Codex 越用越省钱》完整归档（图文本地化） |
+| `wechat-article/billion-context/` | 《billion-context：让编码 Agent 会话连跑数月不崩的本地上下文折叠代理》完整归档（图文本地化，已去除出处信息） |
 
 ## 个人门户
 
@@ -92,5 +93,13 @@
 来源公众号：AI开源无界。文章《微软开源了个省钱插件：让 Claude Code、Codex 越用越省钱》，完整图文归档（6 张本地化图片）。
 
 打开 [`wechat-article/tokeneconomizer/index.html`](wechat-article/tokeneconomizer/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。
+
+## billion-context 文章归档
+
+技术文章《billion-context：让编码 Agent 会话连跑数月不崩的本地上下文折叠代理》，完整图文归档（3 张本地化图片），已去除源链接与作者出处信息。
+
+打开 [`wechat-article/billion-context/index.html`](wechat-article/billion-context/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。

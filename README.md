@@ -103,3 +103,11 @@
 打开 [`wechat-article/billion-context/index.html`](wechat-article/billion-context/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。
+
+## ainlp-ai-collaboration 文章归档
+
+技术文章《如何与 AI 协作，让每次工作都产生复利》（公众号「AINLP」）。完整正文归档，含 CLAUDE.md 配置、目录结构、Skills 等全部代码示例（3 个代码块）。
+
+打开 [`wechat-article/ainlp-ai-collaboration/index.html`](wechat-article/ainlp-ai-collaboration/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。

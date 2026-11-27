@@ -135,3 +135,45 @@
 打开 [`wechat-article/ainlp-looped-transformer/index.html`](wechat-article/ainlp-looped-transformer/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。
+
+## ainlp-agent-skills-guide 文章归档
+
+- **首发！Agent Skills实战指南：从 PPT 生成到自动发推文，源码级复刻**（2026-02-26）
+  - 原文：[微信公众号 AINLP](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650451024&idx=1&sn=15c2f9e94667f8af0e5b83bafcc7ca32&chksm=bffc784b6b732a39733bb3130e9ed8a39ac8e30eb0a1ae7d19373c3efd13b5a85366fb0c369a#rd)
+  - 归档目录：`wechat-article/ainlp-agent-skills-guide/`（含本地图片与代码高亮）
+
+## ainlp-skills-openclaw 文章归档
+
+- **一文讲清 Skills 概念与 OpenClaw 运作机制**（2026-03-01）
+  - 原文：[微信公众号 AINLP](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650451062&idx=1&sn=5b73c78a344538e29099d8b1db6128ac&chksm=bf592d13237cba938f45f0eeae8ee08171757807cf6c2d59bff39d09563fcf402c6a66c51662#rd)
+  - 归档目录：`wechat-article/ainlp-skills-openclaw/`（含本地图片与代码高亮）
+
+## ainlp-domain-adaptive-pretrain 文章归档
+
+- **领域自适应之继续预训练 demo**（2022-05-08）
+  - 原文：[微信公众号 AINLP](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650430367&idx=5&sn=526585455c3645f1898973a49c445ad3&chksm=bf80d51755c495fe7d1672db5a36b44370d3e41c8f40335c82f0be131eec6c1440555de75d86#rd)
+  - 归档目录：`wechat-article/ainlp-domain-adaptive-pretrain/`（含本地图片与代码高亮）
+
+## ainlp-new-intent 文章归档
+
+- **基于预训练和对比学习的新意图发现**（2022-12-20）
+  - 原文：[微信公众号 AINLP](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650435104&idx=4&sn=cdf287101767a30f1bb968f2d74c64f1&chksm=becde87a89ba616c971f21039570d94b5501df8c1a04712ecbda0bd387a59de95b596821d40e#rd)
+  - 归档目录：`wechat-article/ainlp-new-intent/`（含本地图片与代码高亮）
+
+## ainlp-lm-data-aug 文章归档
+
+- **指导性语言生成模型之数据增强**（2022-05-21）
+  - 原文：[微信公众号 AINLP](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650430625&idx=5&sn=233130a8c3de54fc9c25ee16c894032e&chksm=becddafb89ba53edbe521e48b8c0b6304f60ac06bcfc0ffc9826caf2bad9e63104403befc963#rd)
+  - 归档目录：`wechat-article/ainlp-lm-data-aug/`（含本地图片与代码高亮）
+
+## ainlp-nlu-dialogue 文章归档
+
+- **NLU 落地场景：智能对话交互**（2021-06-10）
+  - 原文：[微信公众号 AINLP](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650423263&idx=2&sn=034a8a2cc6b70a2c50ad3b3214213962&chksm=bffa0c4f3e4d84f9a5f53bbf83085e2dab89ddf47820b6737205855175c450ae86cbd950b8d9#rd)
+  - 归档目录：`wechat-article/ainlp-nlu-dialogue/`（含本地图片与代码高亮）
+
+## ainlp-dialogue-arch 文章归档
+
+- **聊聊对话系统：技术架构**（2022-04-27）
+  - 原文：[微信公众号 AINLP](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650430186&idx=3&sn=f50dfe7f12557792690e7b5044c0c222&chksm=bf482b9808568f210a4622cb4a6795da0ef33f14dd7e95bddc38bf0c4f6c7245c34d7bc84457#rd)
+  - 归档目录：`wechat-article/ainlp-dialogue-arch/`（含本地图片与代码高亮）

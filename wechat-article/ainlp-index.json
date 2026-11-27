@@ -8,5 +8,10 @@
       "dir": "wechat-article/ainlp-ai-collaboration",
       "date": "2026-11-26"
     }
-  ]
+  ],
+  "library": {
+    "dir": "wechat-library/ainlp",
+    "count": 256,
+    "note": "完整历史文章资料库（社区清单 263 篇，有效 256 篇）"
+  }
 }

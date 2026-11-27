@@ -111,3 +111,11 @@
 打开 [`wechat-article/ainlp-ai-collaboration/index.html`](wechat-article/ainlp-ai-collaboration/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。
+
+## AINLP 公众号历史文章资料库
+
+来源公众号：AINLP（微信号 nlpjob）。收录 256 篇历史文章，按 24 个主题分类，完整正文归档并本地化 2968 张图片，支持分类导航与全文关键词检索，每篇可跳转微信原文。
+
+打开 [`wechat-library/ainlp/index.html`](wechat-library/ainlp/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。

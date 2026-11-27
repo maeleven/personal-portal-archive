@@ -7,6 +7,18 @@
       "url": "https://mp.weixin.qq.com/s/ZwtelGzWwJcOmoZQjMLF4Q",
       "dir": "wechat-article/ainlp-ai-collaboration",
       "date": "2026-11-26"
+    },
+    {
+      "title": "三万八千八，DeepSeek带回家",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650448235&idx=2&sn=d3645672fdc770b4ff6b7c9ced362614&chksm=bfb4553bc3b54266d8f695650264ba80bb46c89d7aaa0299b7c6bb178af9d22abaa57da273ca",
+      "dir": "wechat-article/ainlp-deepseek-38800",
+      "date": "2025-03-20"
+    },
+    {
+      "title": "从 RNN 到循环 Transformer：跨越 80 年的循环历史",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650457630&idx=1&sn=6871a8d2f36f02868945aa1f138f6f30&chksm=bf5cc3af3a40e6203cd6f2039c6a6defa92c8f4f44d02bc74a8cdcb24f30749c64a7b5822ac2",
+      "dir": "wechat-article/ainlp-looped-transformer",
+      "date": "2026-11-25"
     }
   ],
   "library": {

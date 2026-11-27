@@ -119,3 +119,19 @@
 打开 [`wechat-library/ainlp/index.html`](wechat-library/ainlp/index.html) 浏览。
 
 内容仅供学习交流，版权归原作者所有。
+
+## ainlp-deepseek-38800 文章归档
+
+技术文章《三万八千八，DeepSeek带回家》（公众号「AINLP」，2025-03-20）。满血版 DeepSeek 671B 全参数微调部署与纯 CPU 本地化部署实践，含装机选型、xtuner 训练、模型转换与 llama.cpp/vLLM 部署全流程命令（25 个代码块）。
+
+打开 [`wechat-article/ainlp-deepseek-38800/index.html`](wechat-article/ainlp-deepseek-38800/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。
+
+## ainlp-looped-transformer 文章归档
+
+技术文章《从 RNN 到循环 Transformer：跨越 80 年的循环历史》（公众号「AINLP」，2026-11-25）。alphaXiv 图解指南全文翻译：从视觉皮层反馈、Hopfield 网络、RNN 到深度平衡模型、通用 Transformer 与连续思维链的循环计算脉络（6 张图解）。
+
+打开 [`wechat-article/ainlp-looped-transformer/index.html`](wechat-article/ainlp-looped-transformer/index.html) 浏览。
+
+内容仅供学习交流，版权归原作者所有。
